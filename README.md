@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Giuseppe
+- 👀 I’m interested in programming, algorithms, data structures, IT, AI, CV, NLP, ML, DL and all things about information
+- 🌱 I’m currently studying Computer Engineering at University of Parma
+- 📫 How to reach me ... giuseppe.trimigno@didasca.org
